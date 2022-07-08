@@ -15,7 +15,7 @@ function Footer() {
         <h5 className='font-bold'>COMMUNITY</h5>
         <p>Accessibility</p>
         <p>This is not a real site</p>
-        <p>It's a Awesome Clone</p>
+        <p>An Awesome Clone</p>
         <p>Made by Mayank Mishra</p>
         <p>With ReactJs</p>
         </div>

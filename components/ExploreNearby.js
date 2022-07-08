@@ -6,7 +6,7 @@ function ExploreNearby({img, location, distance}) {
     <div className='flex items-center m-2 mt-5 space-x-4 rounded-xl cursore-pointer hover:bg-gray-100 hover:scale-105 transiti transform duration-200 ease-out'>
         {/* LeftSide */}
         <div className='relative h-16 w-16'>
-            <Image className='rounded-lg' src={img} layout="fill" />
+            <Image className='rounded-lg' src={img} layout="fill" alt='Explore-Views'/>
         </div>
          {/* RightSide */}
          <div>
